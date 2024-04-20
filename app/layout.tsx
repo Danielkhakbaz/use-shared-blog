@@ -1,6 +1,7 @@
 import { ReactNode } from "react";
 import type { Metadata } from "next";
 import { InterFont } from "theme/font";
+import "styles/globals.css";
 
 export const metadata: Metadata = {
   title: "Create Next App",
